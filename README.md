@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 
 1. Create a .env file containing the required varibles.
 3. The `spiderTask2A.ipynb` file, run in google colab.
@@ -6,15 +6,15 @@
 5. Download and save the folder locally and run the app.py file on local device.
 6. From there, it will create and host a local server and you can ask it questions :)
 
-#Logs for some questions
+# Logs for some questions
 
-###Q1. What is the main innovation introduced in the "Attention is All You Need" paper?
+### Q1. What is the main innovation introduced in the "Attention is All You Need" paper?
 
 Answer : The main innovation introduced in the "Attention is All You Need" paper is scaled dot-product attention, multi-head attention and the parameter-free position representation.
 
-####Retrieved docs with cosine-similarities: 
+#### Retrieved docs with cosine-similarities: 
 
-#####Similarity :  0.5115201040317792 for the doc :
+##### Similarity :  0.5115201040317792 for the doc :
 
 [Tur20] Project Turing. Microsoft research blog, Feb 2020.
 [VBL+16] Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Daan Wierstra, et al. Matching Networks for One
@@ -31,7 +31,7 @@ dual learning. ICLR 2019, 2018.
 augmentation for consistency training, 2019.
 [YdC+19] Dani Yogatama, Cyprien de Masson d’Autume, Jerome Connor, Tomas Kocisky, Mike Chrzanowski,
 
-#####Similarity :  0.4985134494585829  for the doc :  
+##### Similarity :  0.4985134494585829  for the doc :  
 
 has been crucially involved in every aspect of this work. Noam proposed scaled dot-product attention, multi-head
 attention and the parameter-free position representation and became the other person involved in nearly every
@@ -47,7 +47,7 @@ Recurrent models typically factor computation along the symbol positions of the 
 sequences. Aligning the positions to steps in computation time, they generate a sequence of hidden
 states ht, as a function of the previous hidden state ht−1 and the input for position t. This inherently
 
-#####Similarity :  0.48738519086757887  For the doc :  
+##### Similarity :  0.48738519086757887  For the doc :  
 
 of synthetic tasks.
 Jared Kaplan and Sam McCandlish initially predicted that a giant language model should show continued gains, and
@@ -63,3 +63,4 @@ Rewon Child and Scott Gray contributed the sparse transformer.
 Aditya Ramesh experimented with loss scaling strategies for pretraining.
 Melanie Subbiah and Arvind Neelakantan implemented, experimented with, and tested beam search.
 Pranav Shyam worked on SuperGLUE and assisted with connections to few-shot learning and meta-learning literature.
+
