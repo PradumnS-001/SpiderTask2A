@@ -1,7 +1,7 @@
 # Instructions
 
 1. Create a `.env` file containing the required varibles.
-3. The `spiderTask2A.ipynb` file, run in google colab.
+3. The `spiderTask2A.ipynb` file, run in google colab. The `taskFile.txt` contains the link to colab notebook.
 4. On a successful run, you will get a `vdb` folder in your google drive.
 5. Download and save the folder locally and run the `app.py` file on local device.
 6. From there, it will create and host a local server and you can ask it questions. :)
